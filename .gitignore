@@ -4,6 +4,8 @@ roadapikey.txt
 kakaomapkey.txt
 chromedriver.exe
 tree.dot
+corpus/
+model/
 
 # Editors
 .vscode/
